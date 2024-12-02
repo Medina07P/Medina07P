@@ -52,12 +52,18 @@ About me
 
 <br>   
     
-- **Social Networks**:
+- **Connect with me**:
 <a href="https://linkedin.com/in/jarol-medina-1215962b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
 <a href="https://instagram.com/jarol9625" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sígueme en Instagram">
+</a>
+<a href="https://discord.com/users/WebSocT" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join me on Discord">
+</a>
+<a href="mailto:jarolmedina41@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
 </a>
 <br>
 
