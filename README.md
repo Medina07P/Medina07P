@@ -53,9 +53,11 @@ About me
 <br>   
     
 - **Social Networks**:
-
+<a href="https://linkedin.com/in/jarol-medina-1215962b0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
 <a href="https://instagram.com/jarol9625" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sígueme en Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sígueme en Instagram">
 </a>
 <br>
 
