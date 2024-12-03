@@ -12,7 +12,7 @@ About me
 - Currently in my fifth semester of Systems Engineering
 - Skilled in Python and Java
 - Technologist in data networks with expertise in Cisco and Mikrotik equipment
-- I am currently open for a new job opportunity, eager to apply my skills in a challenging environment and contribute to securing digital infrastructures.
+- I am currently open for a new job opportunity, eager to apply my skills in a challenging environment and contribute to securing digital infrastructures. <a href="https://drive.google.com/file/d/1d1jfhAqW-gBwQ17tQCfQPqRJETvrbpWL/view?usp=sharing" target="blank">Resume</a>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
