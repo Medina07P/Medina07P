@@ -7,7 +7,7 @@
 About me
 </b>
 
-- A passionate Back-end developer
+- A passionate fullstack developer
 - I love cybersecurity
 - Currently in my fifth semester of Systems Engineering
 - Skilled in Python and Java
