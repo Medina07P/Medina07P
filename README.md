@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jarol Medina 👋</h1>
+<h1 align="center">Hi, I'm Jarol Medina</h1>
 
 <p align="center">
   Systems Engineering student & researcher · Fullstack, IoT and AI developer<br>
@@ -15,16 +15,16 @@
 
 ## About me
 
-- 🎓 Systems Engineering at **Fundación Universitaria de Popayán (FUP)**, researcher in the **SEINSOFT** seedbed (LOGICIEL research group)
-- 🔬 I build IoT + machine learning solutions for real communities in Cauca: dairy monitoring, and offline predictive analytics for a rural indigenous school
-- 🌐 Network technician (SENA) with hands-on experience in **MikroTik** and Cisco equipment (FUTUTEL S.A.S, 2022 – 2025)
-- ☕ Founder of **Café Valdore**, a specialty coffee e-commerce from Pitalito, Huila
-- 🔐 Research interests: AI, cybersecurity, networks and telecommunications, quantum computing
-- 💼 **Open to new opportunities** · [Resume](https://drive.google.com/file/d/19OErVTlwmXj9xAT7m70MVlOuDYAig0GY/view?usp=drive_link) <!-- TODO: replace with the updated PDF link -->
+- <img src="assets/icons/graduation-cap.svg" width="18" height="18" align="absmiddle" alt=""> Systems Engineering at **Fundación Universitaria de Popayán (FUP)**, researcher in the **SEINSOFT** seedbed (LOGICIEL research group)
+- <img src="assets/icons/flask-conical.svg" width="18" height="18" align="absmiddle" alt=""> I build IoT + machine learning solutions for real communities in Cauca: dairy monitoring, and offline predictive analytics for a rural indigenous school
+- <img src="assets/icons/network.svg" width="18" height="18" align="absmiddle" alt=""> Network technician (SENA) with hands-on experience in **MikroTik** and Cisco equipment (FUTUTEL S.A.S, 2022 – 2025)
+- <img src="assets/icons/coffee.svg" width="18" height="18" align="absmiddle" alt=""> Founder of **Café Valdore**, a specialty coffee e-commerce from Pitalito, Huila
+- <img src="assets/icons/shield-check.svg" width="18" height="18" align="absmiddle" alt=""> Research interests: AI, cybersecurity, networks and telecommunications, quantum computing
+- <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt=""> **Open to new opportunities** · [Resume](https://drive.google.com/file/d/19OErVTlwmXj9xAT7m70MVlOuDYAig0GY/view?usp=drive_link) <!-- TODO: replace with the updated PDF link -->
 
 ---
 
-## 🔬 Research highlights
+## <img src="assets/icons/microscope.svg" width="20" height="20" align="absmiddle" alt=""> Research highlights
 
 | Project | What it does | Results |
 |---|---|---|
@@ -32,11 +32,11 @@
 | **Offline predictive analytics for rural schools** | Disconnected data pipeline (IoTAP) that classifies academic risk inside a Laravel 12 academic system for I.E. Akwe Üus Yat (Inzá, Cauca) | R² 0.971, MAE 0.162, ~21 ms inference, SUS 80/100 · accepted at **Decisioning 2026** |
 | **Egresados 360 FUP** | Alumni follow-up platform backed by a systematic literature review | Research project, FUP |
 
-📚 Book chapter: *Monitoreo inteligente de datos lecheros: una solución basada en IoT y aprendizaje automático* (Editorial Universidad de Nariño, ISBN 978-958-8958-39-2, 2025)
+<img src="assets/icons/book-open.svg" width="18" height="18" align="absmiddle" alt=""> Book chapter: *Monitoreo inteligente de datos lecheros: una solución basada en IoT y aprendizaje automático* (Editorial Universidad de Nariño, ISBN 978-958-8958-39-2, 2025)
 
 ---
 
-## 🚀 Featured projects
+## <img src="assets/icons/rocket.svg" width="20" height="20" align="absmiddle" alt=""> Featured projects
 
 - **[cobrosapp (SGCRC)](https://github.com/Medina07P/cobrosapp)**: multi-tenant recurring-billing system with daily reminders by email. Node.js 22, React 18, SQLite, JWT, Docker Compose.
 - **[Condor-Play](https://github.com/Medina07P/Condor-Play)** and **[LibreIPTV](https://github.com/Medina07P/LibreIPTV_Download)**: multiplatform player apps for Android, Android TV and Windows (Flutter, Kotlin, Media3 ExoPlayer, FFmpeg).
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech stack
+## <img src="assets/icons/wrench.svg" width="20" height="20" align="absmiddle" alt=""> Tech stack
 
 **Languages**
 
@@ -70,6 +70,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **AI, data and IoT**
 
@@ -93,10 +94,10 @@
 
 ---
 
-## 🎖️ Highlights
+## <img src="assets/icons/award.svg" width="20" height="20" align="absmiddle" alt=""> Highlights
 
 - Speaker at **CACIED 2025**, **SENSE 2025** (Universidad del Cauca) and the **VIII FUP Research Seedbeds Meeting**
 - **Talento FUP "Semilleros que Inspiran"** award (2025)
 - Certified: Scrum Fundamentals (SFC), Cisco Introduction to Cybersecurity, QWorld Qiskit Bronze and Nickel
 
-<p align="center"><i>Always happy to talk about IoT, AI applied to real problems, or coffee ☕</i></p>
+<p align="center"><i>Always happy to talk about IoT, AI applied to real problems, or coffee</i></p>
