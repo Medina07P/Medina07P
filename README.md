@@ -39,11 +39,14 @@
 ## <img src="assets/icons/rocket.svg" width="20" height="20" align="absmiddle" alt=""> Featured projects
 
 - **[cobrosapp (SGCRC)](https://github.com/Medina07P/cobrosapp)**: multi-tenant recurring-billing system with daily reminders by email. Node.js 22, React 18, SQLite, JWT, Docker Compose.
+- **[MyConnect](https://myconnectfibraoptica.com/)**: corporate website for an ISP and custom-software company in Huila (internet plans, coverage checker, software catalog, portfolio, WhatsApp-driven contact flow). Responsive, accessible (skip link), with Open Graph metadata.
+- **[MyConnect IPTV PRO](https://github.com/Medina07P/myconnect_iptv)**: Android and Android TV streaming app (live channels, movies, series, resume watching) distributed through versioned APK releases; landing page included in the repo.
+- **MiniMarket**, **SyncroBusiness** and **Egreplus**: offline-capable point-of-sale systems and a personal-finance app with receipt photos, published in [MyConnect's software catalog](https://myconnectfibraoptica.com/) with release channels on GitHub ([Inventario-releases](https://github.com/Medina07P/Inventario-releases), [SyncroBusiness-releases](https://github.com/Medina07P/SyncroBusiness-releases)).
 - **[Condor-Play](https://github.com/Medina07P/Condor-Play)** and **[LibreIPTV](https://github.com/Medina07P/LibreIPTV_Download)**: multiplatform player apps for Android, Android TV and Windows (Flutter, Kotlin, Media3 ExoPlayer, FFmpeg).
 - **[traffic-signs-cnn](https://github.com/Medina07P/traffic-signs-cnn)**: traffic sign detection on GTSRB (43 classes), CNN with ~93 % accuracy, OpenCV, BERT Q&A agent in Spanish, Gradio on Hugging Face Spaces.
 - **[sistema-gestion-produccion-code](https://github.com/Medina07P/sistema-gestion-produccion-code)**: layered Java 17 desktop app (Swing, Hibernate, MySQL) for harvest weighing and payroll.
 - **[N_queens](https://github.com/Medina07P/N_queens)**: genetic algorithm for the N-Queens problem with Tkinter UI and Flask REST API.
-- **[cafevaldore.github.io](https://github.com/cafevaldore/cafevaldore.github.io)**: e-commerce site with Firebase auth, real-time chat and admin panel.
+- **[cafevaldoreco.github.io](https://github.com/cafevaldoreco/cafevaldoreco.github.io)**: e-commerce site with Firebase auth, real-time chat and admin panel.
 
 ---
 
@@ -78,6 +81,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
@@ -91,6 +95,17 @@
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Cloud and developer tools**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square)
+![VPS](https://img.shields.io/badge/VPS-Contabo-0F172A?style=flat-square&logo=contabo&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square&logo=opencode&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
