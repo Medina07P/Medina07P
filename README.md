@@ -46,7 +46,7 @@
 - **[traffic-signs-cnn](https://github.com/Medina07P/traffic-signs-cnn)**: traffic sign detection on GTSRB (43 classes), CNN with ~93 % accuracy, OpenCV, BERT Q&A agent in Spanish, Gradio on Hugging Face Spaces.
 - **[sistema-gestion-produccion-code](https://github.com/Medina07P/sistema-gestion-produccion-code)**: layered Java 17 desktop app (Swing, Hibernate, MySQL) for harvest weighing and payroll.
 - **[N_queens](https://github.com/Medina07P/N_queens)**: genetic algorithm for the N-Queens problem with Tkinter UI and Flask REST API.
-- **[cafevaldoreco.github.io](https://github.com/cafevaldoreco/cafevaldoreco.github.io)**: e-commerce site with Firebase auth, real-time chat and admin panel.
+- **[cafevaldore.com](https://www.cafevaldore.com)**: e-commerce site with Firebase auth, real-time chat and admin panel.
 
 ---
 
